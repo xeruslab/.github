@@ -1,7 +1,3 @@
-# XERUS
-
-> Explainable AI Research for Understandable Systems
-
 At XERUS, we develop machine learning models that provide meaningful explanations and insights into data behavior, enabling users to better understand, trust, and effectively apply these models in high-stakes healthcare settings.
 
 ## Research Software
